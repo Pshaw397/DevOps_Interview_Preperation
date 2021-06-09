@@ -3,7 +3,7 @@
 ### What are the key benefits of DevOps and how can we utilise them? (provide use cases or exmaples)
 
 - DevOps helps improve cost effectiveness as it leads to faster deployment of live builds, reducing development costs. Additionally it also ensure higher quality code, reducing the chance of failures during development.
-- The continous development practices that DevOps incorporate allows the organisation to react faster to change in tools or the market
+- The continous development practices that DevOps incorporate allows the organisation to be more flexible and react faster to change in tools or the market
 - Increased ease of use by having automated tests, making tests easy to run whenever changes are made.
 - Increase robustness by using regression and confirmation testing to ensure the application works and is of a high quality.
 
